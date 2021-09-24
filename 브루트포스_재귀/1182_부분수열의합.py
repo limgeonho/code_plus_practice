@@ -14,10 +14,6 @@ for i in range(1, n+1):
 print(cnt)
 
 #######################################
-
-n,m = map(int,input().split())
-a = list(map(int,input().split()))
-ans = 0
 def go(i, s):
     global ans
     if i == n:
@@ -26,6 +22,10 @@ def go(i, s):
         return
     go(i+1,s+a[i])
     go(i+1,s)
+
+n,m = map(int,input().split())
+a = list(map(int,input().split()))
+ans = 0
 go(0, 0)
 if m == 0:
     ans -= 1
