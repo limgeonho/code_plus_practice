@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/5582_공통부분문자열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/7476_최대공통증가수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/9251_LCS1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/9252_LCS2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/16197_두동전.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="132">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -89,26 +81,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="570">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py">
+        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="1327">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="1575">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
             </state>
           </provider>
         </entry>
@@ -137,18 +129,20 @@
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/LCS/7476_최대공통증가수열.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/16197_두동전.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py" />
-        <option value="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py" />
+        <option value="$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py" />
+        <option value="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" />
+        <option value="$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="6" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2098" />
+    <option name="y" value="-9" />
+    <option name="width" value="1625" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -345,15 +339,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1914" y="6" width="1037" height="1118" extended-state="0" />
+    <frame x="1913" y="-1" width="2062" height="1126" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.087901235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20812182" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20644511" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31167513" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,27 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_재귀/1182_부분수열의합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -489,8 +462,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="132">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
