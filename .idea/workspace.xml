@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/그래프알고리즘/12946_육각보드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1208_부분수열의합2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/투포인터/1644_소수의연속합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/투포인터/1806_부분합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_기타/투포인터/2003_수들의합2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_순열/14888_연산자끼워넣기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_순열/14889_스타트와링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/백트래킹/2239_스도쿠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스_순열/1339_단어수학.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_순열/1339_단어수학.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스_순열/2529_부등호.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_순열/2529_부등호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스_재귀/백트래킹/2580_스도쿠.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_재귀/백트래킹/2580_스도쿠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스_재귀/백트래킹/4574_스도미노쿠.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_재귀/백트래킹/4574_스도미노쿠.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,20 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/그래프알고리즘/16929_towdots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+            <state relative-caret-position="588">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="42">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -165,18 +148,18 @@
         <option value="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1208_부분수열의합2.py" />
         <option value="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py" />
         <option value="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py" />
-        <option value="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/12946_육각보드.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" />
+        <option value="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1912" />
     <option name="y" value="6" />
-    <option name="width" value="1348" />
+    <option name="width" value="1297" />
     <option name="height" value="1398" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -355,15 +338,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1914" y="6" width="1078" height="1118" extended-state="0" />
+    <frame x="1914" y="6" width="1037" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22190201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3390863" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18883249" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31167513" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -609,17 +592,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py">
+    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16929_towdots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="588">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16929_towdots.py">
+    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
