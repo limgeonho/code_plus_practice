@@ -1,5 +1,4 @@
-# 스도쿠
-
+# 스도쿠풀기
 
 def square(x, y):
     return (x//3)*3 + (y//3)
@@ -20,25 +19,25 @@ def go(z):
                 array[x][y] = i
                 if go(z+1):
                     return True
-                array[x][y] = 0
+                array[x][y] = '0'
                 c1[x][i] = c2[y][i] = c3[square(x, y)][i] = False
     return False
 
 n = 9
-array = [list(map(int, input().split())) for _ in range(n)]
-c1 = [[False]*10 for _ in range(n)] # 행 점검
-c2 = [[False]*10 for _ in range(n)] # 열 점검
-c3 = [[False]*10 for _ in range(n)] # 3*3사각형 점검
+array = [list(map(str, input().split())) for _ in range(n)]
+c1 = [[False]*10 for _ in range(n+1)] # 행 점검
+c2 = [[False]*10 for _ in range(n+1)] # 열 점검
+c3 = [[False]*10 for _ in range(n+1)] # 3*3사각형 점검
 
 for i in range(n):
     for j in range(n):
         # 해당 위치에 0이 있는지 파악
-        if array[i][j] != 0:
+        if array[i][j] != '0':
             # 없다면 행, 열, 사각형 점검리스트에 표시
             # 독립적인 리스트를 만들어서 열,행,사각형의 스도쿠(1~9)여부만 파악한다
-            c1[i][array[i][j]] = True
-            c2[j][array[i][j]] = True
-            c3[square(i,j)][array[i][j]] = True
+            c1[i][int(array[i][j])] = True
+            c2[j][int(array[i][j])] = True
+            c3[square(i,j)][int(array[i][j])] = True
 
 go(0)
 
