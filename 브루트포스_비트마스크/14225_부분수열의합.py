@@ -3,7 +3,6 @@
 
 n = int(input())
 array = list(map(int, input().split()))
-
 check = [False] * 2000000
 
 # 2**n => 나올 수 있는 전체 경우의 수

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스_비트마스크/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" beforeDir="false" afterPath="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_재귀/1182_부분수열의합.py">
+        <entry file="file://$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_기타/투포인터/2003_수들의합2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="15">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -43,62 +28,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1208_부분수열의합2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="150">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/그래프알고리즘/16929_towdots.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9251_LCS1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9252_LCS2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/7476_최대공통증가수열.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/그래프알고리즘/12946_육각보드.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="114">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/5582_공통부분문자열.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -149,18 +152,19 @@
         <option value="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py" />
         <option value="$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/12946_육각보드.py" />
-        <option value="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" />
+        <option value="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="6" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1911" />
+    <option name="y" value="-3" />
+    <option name="width" value="1298" />
+    <option name="height" value="1408" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -182,6 +186,49 @@
               <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
               <item name="그래프알고리즘" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="다이나믹프로그래밍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="다이나믹프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="LCS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_기타" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_기타" type="462c0819:PsiDirectoryNode" />
+              <item name="meet_in_the_middle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_기타" type="462c0819:PsiDirectoryNode" />
+              <item name="투포인터" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_비트마스크" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_순열" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_재귀" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16929_towdots">
+  <component name="RunManager" selected="Python.16940_BFS스페셜저지">
     <configuration name="1450_냅색문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,6 +290,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16940_BFS스페셜저지" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프알고리즘" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,34 +361,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2143_두배열의합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/브루트포스_기타" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\임건호\Desktop\알고리즘\code_plus_practice\브루트포스_기타\meet_in_the_middle\2143_두배열의합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16940_BFS스페셜저지" />
         <item itemvalue="Python.16929_towdots" />
         <item itemvalue="Python.1450_냅색문제" />
         <item itemvalue="Python.2143_두배열의합 (1)" />
         <item itemvalue="Python.1806_부분합" />
-        <item itemvalue="Python.2143_두배열의합" />
       </list>
     </recent_temporary>
   </component>
@@ -338,15 +385,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1914" y="6" width="1037" height="1118" extended-state="0" />
+    <frame x="1913" y="-1" width="1038" height="1126" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23776224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18883249" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18731117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31167513" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,87 +408,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9251_LCS1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9252_LCS2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/7476_최대공통증가수열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/5582_공통부분문자열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1327">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_재귀/백트래킹/4574_스도미노쿠.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/6603_로또.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/16197_두동전.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14888_연산자끼워넣기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -466,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/15658_연산자끼워넣기(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_순열/1339_단어수학.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -494,24 +457,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_순열/14889_스타트와링크.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14225_부분수열의합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -543,27 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/1182_부분수열의합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1208_부분수열의합2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -572,13 +500,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
@@ -603,6 +524,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14888_연산자끼워넣기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14225_부분수열의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/6603_로또.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/1182_부분수열의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/16197_두동전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/15658_연산자끼워넣기(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1208_부분수열의합2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9251_LCS1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/9252_LCS2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/7476_최대공통증가수열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/5582_공통부분문자열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
