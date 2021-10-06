@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/12886_돌그룹.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/14502_연구소.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/16948_데스나이트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS알고리즘/14442_벽부수고이동하기2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS알고리즘/16933_벽부수고이동하기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS알고리즘/16954_움직이는미로탈출.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS알고리즘/0-1bfs/6087_레이저통신.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS알고리즘/0-1bfs/6087_레이저통신.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BFS알고리즘/0-1bfs/6087_레이저통신.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -58,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BFS알고리즘/14502_연구소.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1628">
-              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-column="2" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -76,35 +64,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="127">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS알고리즘/16933_벽부수고이동하기3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BFS알고리즘/14442_벽부수고이동하기2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py">
+        <entry file="file://$PROJECT_DIR$/BFS알고리즘/16954_움직이는미로탈출.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/LCS/5582_공통부분문자열.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="418">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -117,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/브루트포스_재귀/6603_로또.py" />
-        <option value="$PROJECT_DIR$/브루트포스_재귀/14225_부분수열의합.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/15658_연산자끼워넣기(2).py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/1182_부분수열의합.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/14888_연산자끼워넣기.py" />
@@ -167,10 +165,13 @@
         <option value="$PROJECT_DIR$/BFS알고리즘/12886_돌그룹.py" />
         <option value="$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py" />
         <option value="$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py" />
+        <option value="$PROJECT_DIR$/BFS알고리즘/14442_벽부수고이동하기2.py" />
+        <option value="$PROJECT_DIR$/BFS알고리즘/16933_벽부수고이동하기3.py" />
+        <option value="$PROJECT_DIR$/BFS알고리즘/16954_움직이는미로탈출.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1911" />
     <option name="y" value="-3" />
     <option name="width" value="1298" />
@@ -195,6 +196,12 @@
               <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
               <item name="BFS알고리즘" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="0-1bfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code_plus_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -270,8 +277,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16946_벽부수고이동하기4">
-    <configuration name="12886_돌그룹" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16954_움직이는미로탈출">
+    <configuration name="14442_벽부수고이동하기2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +290,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/12886_돌그룹.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/14442_벽부수고이동하기2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14502_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16933_벽부수고이동하기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,7 +311,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/14502_연구소.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/16933_벽부수고이동하기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16948_데스나이트" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16954_움직이는미로탈출" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,7 +353,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/16948_데스나이트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/16954_움직이는미로탈출.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16954_움직이는미로탈출" />
+        <item itemvalue="Python.16933_벽부수고이동하기3" />
+        <item itemvalue="Python.14442_벽부수고이동하기2" />
         <item itemvalue="Python.16946_벽부수고이동하기4" />
         <item itemvalue="Python.2206_벽부수고이동하기" />
-        <item itemvalue="Python.12886_돌그룹" />
-        <item itemvalue="Python.14502_연구소" />
-        <item itemvalue="Python.16948_데스나이트" />
       </list>
     </recent_temporary>
   </component>
@@ -400,15 +407,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-1" width="2062" height="1126" extended-state="6" />
+    <frame x="1913" y="-1" width="1038" height="1126" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11753087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23776224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26787513" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26787513" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.20745216" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -668,10 +675,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16948_데스나이트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="22">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/14502_연구소.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-column="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -682,24 +696,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16948_데스나이트.py">
+    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py">
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="432">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/14502_연구소.py">
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1628">
-          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        <state relative-caret-position="127">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16933_벽부수고이동하기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/14442_벽부수고이동하기2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -710,17 +741,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py">
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="220">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py">
+    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16954_움직이는미로탈출.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="418">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>

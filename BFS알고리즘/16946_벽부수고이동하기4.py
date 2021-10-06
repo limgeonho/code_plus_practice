@@ -59,7 +59,7 @@ group = [[-1]*m for _ in range(n)]
 # 방문 여부 파악
 check = [[False]*m for _ in range(n)]
 
-# grouping한 것들의 크키를 저장
+# grouping한 것들의 크기를 저장
 group_size = []
 
 
