@@ -1,5 +1,5 @@
 # 레이저 통신
-
+# bfs탐색을 했을 때 한 칸 씩만 움직이는 것이 아니라 갈 수 있는 곳까지 쭉 진행(NEW!!)
 from collections import deque
 
 dx = [-1, 0, 1, 0]
@@ -14,15 +14,18 @@ def dfs(sx, sy):
         for k in range(4):
             nx = x + dx[k]
             ny = y + dy[k]
+            # ============================================
+            # 갈 수 있는 곳까지 쭉 진행 => 조건내에서 계속반복해야함 => while문
             while 0<=nx<h and 0<=ny<w:
                 if board[nx][ny] == '*':
                     break
                 if check[nx][ny] == -1:
                     check[nx][ny] = check[x][y] + 1
                     q.append((nx, ny))
+                # 범위내에서 계속 진행하는 부분(핵심)
                 nx += dx[k]
                 ny += dy[k]
-
+            # ============================================
 w, h = map(int, input().split())
 
 board = [list(input()) for _ in range(h)]
