@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,49 +18,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BFS알고리즘/16948_데스나이트.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-              <folding>
-                <element signature="e#150#179#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BFS알고리즘/2234_성곽.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/시뮬레이션/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="600">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="176">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -114,9 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/브루트포스_재귀/16198_에너지모으기.py" />
-        <option value="$PROJECT_DIR$/브루트포스_비트마스크/14888_연산자끼워넣기.py" />
-        <option value="$PROJECT_DIR$/브루트포스_비트마스크/2048_12100.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/13460_구슬탈출2.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/1062_가르침.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/12100_2048.py" />
@@ -142,7 +140,6 @@
         <option value="$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16929_towdots.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16947_서울지하철2호선.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" />
         <option value="$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py" />
         <option value="$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py" />
         <option value="$PROJECT_DIR$/BFS알고리즘/0-1bfs/6087_레이저통신.py" />
@@ -165,14 +162,18 @@
         <option value="$PROJECT_DIR$/BFS알고리즘/17142_연구소3.py" />
         <option value="$PROJECT_DIR$/시뮬레이션/test.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="223" />
-    <option name="y" value="-14" />
-    <option name="width" value="1300" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1911" />
+    <option name="y" value="-3" />
+    <option name="width" value="1298" />
+    <option name="height" value="1408" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -182,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -220,7 +221,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11048_이동하기">
+  <component name="RunManager" selected="Python.15989_123더하기4">
+    <configuration name="10942_팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="11048_이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12906_새로운하노이탑" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11060_점프점프" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +272,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS알고리즘" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/12906_새로운하노이탑.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15989_123더하기4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,55 +327,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2206_벽부수고이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/2206_벽부수고이동하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2234_성곽" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS알고리즘/2234_성곽.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15989_123더하기4" />
+        <item itemvalue="Python.10942_팰린드롬" />
+        <item itemvalue="Python.11060_점프점프" />
         <item itemvalue="Python.11048_이동하기" />
         <item itemvalue="Python.17141_연구소2" />
-        <item itemvalue="Python.12906_새로운하노이탑" />
-        <item itemvalue="Python.2234_성곽" />
-        <item itemvalue="Python.2206_벽부수고이동하기" />
       </list>
     </recent_temporary>
   </component>
@@ -350,50 +351,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1913" y="-1" width="1038" height="1126" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13152677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43504533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43504533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299285" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.328934" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299285" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.328934" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/투포인터/1806_부분합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/투포인터/2003_수들의합2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/1450_냅색문제.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/그래프알고리즘/16964_DFS스페셜저지.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -426,13 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -684,6 +657,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -719,17 +706,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/시뮬레이션/test.py">
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="741">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py">
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="377">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
