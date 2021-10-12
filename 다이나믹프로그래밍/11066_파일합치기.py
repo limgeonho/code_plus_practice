@@ -1,5 +1,6 @@
 # 파일 합치기
 
+
 def go(i, j):
     if i == j:
         return 0
@@ -13,6 +14,7 @@ def go(i, j):
             ans = temp
     d[i][j] = ans
     return ans
+
 
 t = int(input())
 for _ in range(t):

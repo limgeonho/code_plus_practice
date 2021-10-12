@@ -1,5 +1,5 @@
 # LCS 4
-
+# 메모리 초과...
 length = int(input())
 
 word_1 = list(map(str, input().split()))
