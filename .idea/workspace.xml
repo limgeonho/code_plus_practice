@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b703339-9109-4bbf-a209-dd1076f595c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/10422_괄호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/12865_평범한배낭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/1495_기타리스트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/5557_1학년.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11058_크리보드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/2293_동전1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍/2294_동전2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,43 +16,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.31982476">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/1495_기타리스트.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/5557_1학년.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="42">
-                  <caret line="2" selection-start-line="2" selection-end-line="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/5557_1학년.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="2" selection-start-line="2" selection-end-line="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/1495_기타리스트.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11058_크리보드.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/2293_동전1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/2294_동전2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/5557_1학년.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/브루트포스_재귀/백트래킹/2239_스도쿠.py" />
-        <option value="$PROJECT_DIR$/브루트포스_순열/2529_부등호.py" />
-        <option value="$PROJECT_DIR$/브루트포스_순열/1339_단어수학.py" />
         <option value="$PROJECT_DIR$/브루트포스_순열/14888_연산자끼워넣기.py" />
         <option value="$PROJECT_DIR$/브루트포스_순열/14889_스타트와링크.py" />
         <option value="$PROJECT_DIR$/브루트포스_비트마스크/14225_부분수열의합.py" />
@@ -105,22 +128,25 @@
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/11048_이동하기.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/11060_점프점프.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/11066_파일합치기.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/10422_괄호.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/12865_평범한배낭.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/1495_기타리스트.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/LCS/13711_LCS4.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍/5557_1학년.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/11058_크리보드.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/2293_동전1.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/2294_동전2.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2307" />
-    <option name="y" value="-6" />
-    <option name="width" value="1299" />
-    <option name="height" value="1409" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1911" />
+    <option name="y" value="-3" />
+    <option name="width" value="1298" />
+    <option name="height" value="1408" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -168,28 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5557_1학년">
-    <configuration name="10942_팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/10942_팰린드롬.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.12869_뮤탈리스크">
     <configuration name="12865_평범한배낭" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,6 +208,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/12865_평범한배낭.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12869_뮤탈리스크" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12869_뮤탈리스크" />
         <item itemvalue="Python.5557_1학년" />
         <item itemvalue="Python.1495_기타리스트" />
         <item itemvalue="Python.12865_평범한배낭" />
         <item itemvalue="Python.15989_123더하기4" />
-        <item itemvalue="Python.10942_팰린드롬" />
       </list>
     </recent_temporary>
   </component>
@@ -298,15 +324,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-1" width="2062" height="1126" extended-state="6" />
+    <frame x="1913" y="-1" width="1038" height="1126" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09827161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1570997" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1570997" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43504533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,27 +347,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/브루트포스_기타/meet_in_the_middle/2143_두배열의합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그래프알고리즘/16940_BFS스페셜저지.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BFS알고리즘/16946_벽부수고이동하기4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14225_부분수열의합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -562,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BFS알고리즘/16928_뱀과사다리게임.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -601,13 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -678,6 +669,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/12869_뮤탈리스크.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/11058_크리보드.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/15989_123더하기4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/2293_동전1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍/2294_동전2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
         </state>
       </provider>
     </entry>
