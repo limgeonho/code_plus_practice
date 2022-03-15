@@ -23,7 +23,7 @@ def next_permutation(a):
 n = int(input())
 a = [list(map(int,input().split())) for _ in range(n)]
 b = [0 if i < n/2 else 1 for i in range(n)]
-# print(b)
+print(b)
 
 ans = 2147000000
 while True:

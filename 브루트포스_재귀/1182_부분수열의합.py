@@ -33,22 +33,40 @@
 # print(ans)
 
 
-def dfs(L, total):
-    global cnt
+# def dfs(L, total):
+#     global cnt
+#     if L == n:
+#         if total == k:
+#             cnt += 1
+#         return
+#     dfs(L+1, total + array[L])
+#     dfs(L+1, total)
+#
+#
+# n, k = map(int, input().split())
+# array = list(map(int, input().split()))
+# cnt = 0
+# dfs(0,0)
+# # 공집합의 합은 0 => 하지만 문제의 조건에서 부분수열의 개수가 양수임!
+# if k == 0:
+#     cnt -= 1
+#
+# print(cnt)
+
+
+def subset(L, ss):
+    global answer
     if L == n:
-        if total == k:
-            cnt += 1
+        if ss == s:
+            answer += 1
         return
-    dfs(L+1, total + array[L])
-    dfs(L+1, total)
+    subset(L+1, ss)
+    subset(L+1, ss + array[L])
 
-
-n, k = map(int, input().split())
+n, s = map(int, input().split())
 array = list(map(int, input().split()))
-cnt = 0
-dfs(0,0)
-# 공집합의 합은 0 => 하지만 문제의 조건에서 부분수열의 개수가 양수임!
-if k == 0:
-    cnt -= 1
-
-print(cnt)
+answer = 0
+subset(0, 0)
+if s == 0:
+    answer -= 1
+print(answer)
